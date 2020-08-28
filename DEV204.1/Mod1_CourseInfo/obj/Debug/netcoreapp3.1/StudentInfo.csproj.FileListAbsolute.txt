@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.exe
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.deps.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.AssemblyInfo.cs
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.dll
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.pdb
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\StudentInfo.genruntimeconfig.cache
