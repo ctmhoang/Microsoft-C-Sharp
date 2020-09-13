@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.exe
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.deps.json
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.runtimeconfig.json
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.dll
+C:\Users\Camer\source\repos\ChessBoard\bin\Debug\netcoreapp3.1\ChessBoard.pdb
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.AssemblyInfo.cs
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.dll
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.pdb
+C:\Users\Camer\source\repos\ChessBoard\obj\Debug\netcoreapp3.1\ChessBoard.genruntimeconfig.cache
