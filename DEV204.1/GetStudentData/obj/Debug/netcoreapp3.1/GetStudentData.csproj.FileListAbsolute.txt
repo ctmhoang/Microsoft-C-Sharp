@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.exe
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.deps.json
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.runtimeconfig.json
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.dll
+C:\Users\Camer\source\repos\GetStudentData\bin\Debug\netcoreapp3.1\GetStudentData.pdb
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.AssemblyInfo.cs
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.dll
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.pdb
+C:\Users\Camer\source\repos\GetStudentData\obj\Debug\netcoreapp3.1\GetStudentData.genruntimeconfig.cache

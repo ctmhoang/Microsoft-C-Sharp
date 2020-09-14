@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.exe
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.deps.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.runtimeconfig.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.dll
+C:\Users\Camer\source\repos\CourseInfo\bin\Debug\netcoreapp3.1\CourseInfo.pdb
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.AssemblyInfo.cs
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.dll
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.pdb
+C:\Users\Camer\source\repos\CourseInfo\obj\Debug\netcoreapp3.1\CourseInfo.genruntimeconfig.cache
