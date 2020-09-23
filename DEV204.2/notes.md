@@ -1,0 +1,34 @@
+# Property in Cs
+```
+// The following statements define a property with a private field.
+   private string _location;
+   public string Location
+   {
+      get
+      {
+         return _location;
+      }
+      set
+      {
+         if (value != null) 
+            _location = value;
+      }
+   }
+   // The following statements define properties.
+   public string Make {get; set;}
+   public string Model {get; set;}
+```
+# Partial Classes
+* Split the definition of the class across multiple source files. Then compile application, all of the parts are combined into a single file.
+* Partial class with the same name
+* Note: split structs and interfaces across multiple source files as well.
+
+# Struct value type class ref type
+
+# Type inference (`var` keyword)
+
+# Event 
+```
+   // The following statement defines an event. The delegate definition is not shown.
+   public event OutOfBeansHandler OutOfBeans;
+```
