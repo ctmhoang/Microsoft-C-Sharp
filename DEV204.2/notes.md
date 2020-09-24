@@ -43,3 +43,9 @@ For simple properties that require no custom accessor code, consider the option 
    // The following statement defines an event. The delegate definition is not shown.
    public event OutOfBeansHandler OutOfBeans;
 ```
+# Static Classes
+`public static class Conversions`
+* Any members within the class must also use the static keyword
+
+# Instantiating an object of Car() Class by using Object initializer. It only work if had a default contructor
+`var car1 = new Car {Color = "White", Year = 2010, Mileage = 11000};`
