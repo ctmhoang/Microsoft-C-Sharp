@@ -49,3 +49,10 @@ For simple properties that require no custom accessor code, consider the option 
 
 # Instantiating an object of Car() Class by using Object initializer. It only work if had a default contructor
 `var car1 = new Car {Color = "White", Year = 2010, Mileage = 11000};`
+# Anonymous class
+`var anAnonymousObject = new { Name = "Tom", Age = 65 };`
+* anonymous classes can contain only public fields
+* the fields must all be initialized
+* fields cannot be static
+* you cannot define any methods for them
+### region name and endregion collapse with name
