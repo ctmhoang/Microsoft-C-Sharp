@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.exe
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.deps.json
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.runtimeconfig.json
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.dll
+C:\Users\Camer\source\repos\UniApp_Mod1\bin\Debug\netcoreapp3.1\UniApp_Mod1.pdb
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.AssemblyInfo.cs
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.dll
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.pdb
+C:\Users\Camer\source\repos\UniApp_Mod1\obj\Debug\netcoreapp3.1\UniApp_Mod1.genruntimeconfig.cache
