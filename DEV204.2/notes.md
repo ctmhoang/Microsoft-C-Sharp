@@ -56,3 +56,57 @@ For simple properties that require no custom accessor code, consider the option 
 * fields cannot be static
 * you cannot define any methods for them
 ### region name and endregion collapse with name
+### Interface has 2 access modifier `public` and `internal`
+### Inherit use colon :
+# Indexer
+`string this[int index] { get; set; }`
+### Event
+`event EventHandler OnSoldOut;`
+
+
+## Sealed like final in java
+
+### struct cannot be extend
+
+##  Explicit implementation of interface:
+`InterfaceName.indentifier`
+## Implicit cast
+`IBeverage beverage = coffee1;`
+
+## Down cast
+```
+// Casting an Interface Type to a Derived Class Type
+Coffee coffee3 = beverage as Coffee;
+// OR
+Coffee coffee4 = (Coffee)beverage;
+Implementing Multiple Interfaces
+```
+### [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netcore-3.1)
+* enable the .NET runtime to dispose of your class correctly.
+# My personal Notes
+```
+get set
+public string Name{get,set};
+can use property in contructor
+readonly can use as field not varable in methods
+
+return value
+
+params like xarg in python and ... in java but need to declare array
+base like super
+override in signature after acccess modifier when super method is virtual
+
+Enum like C and Go maybe java
+
+Need overwrite in child class need a `virtual` keyword in supper class
+
+exntend like : C
+
+as is key word
+
+interface like java
+
+call contructer in supper class use  `:`
+
+use => in ref field to property
+```
