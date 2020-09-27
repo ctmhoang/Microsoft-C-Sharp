@@ -98,8 +98,9 @@ Implementing Multiple Interfaces
 
 *  Automatically converts it to an override of the Finalize method of the object class. However, you cannot explicitly override the Finalize method; you must declare a destructor and let the compiler perform the conversion.
 
-###  `Uuing` like Try block with resources in java, defer in go or with in python
+###  `using` like Try block with resources in java, defer in go or with in python
 
+## Null propagation and null-coalescing 
 # My personal Notes
 ```
 get set
