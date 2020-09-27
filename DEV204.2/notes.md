@@ -81,8 +81,25 @@ Coffee coffee3 = beverage as Coffee;
 Coffee coffee4 = (Coffee)beverage;
 Implementing Multiple Interfaces
 ```
-### [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netcore-3.1)
+## [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netcore-3.1)
 * enable the .NET runtime to dispose of your class correctly.
+
+* Add an overloaded implementation of the Dispose method that accepts a Boolean parameter. The overloaded Dispose method should dispose of both managed and unmanaged resources if it was called directly, in which case you pass a Boolean parameter with the value true. If you pass a Boolean parameter with the value of false, the Dispose method should only attempt to release unmanaged resources. You may want to do this if the object has already been disposed of or is about to be disposed of by the GC.
+
+* Add code to the parameterless Dispose method to invoke the overloaded Dispose method and then call the GC.SuppressFinalize method. The `GC.SuppressFinalize` method instructs the GC that the resources that the object referenced have already been released and the GC does not need to waste time running the finalization code.
+ 
+## Destructor
+```
+~ClassName()
+    {
+        // Destructor logic.
+    }
+```
+
+*  Automatically converts it to an override of the Finalize method of the object class. However, you cannot explicitly override the Finalize method; you must declare a destructor and let the compiler perform the conversion.
+
+###  `Uuing` like Try block with resources in java, defer in go or with in python
+
 # My personal Notes
 ```
 get set
