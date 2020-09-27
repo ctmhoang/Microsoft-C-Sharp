@@ -101,6 +101,9 @@ Implementing Multiple Interfaces
 ###  `using` like Try block with resources in java, defer in go or with in python
 
 ## Null propagation and null-coalescing 
+
+### @ interpret the string literally (that is, you cannot escape any characters within the string if you use the @ prefix)
+* StreamReader can be create by File.OpenText method
 # My personal Notes
 ```
 get set
