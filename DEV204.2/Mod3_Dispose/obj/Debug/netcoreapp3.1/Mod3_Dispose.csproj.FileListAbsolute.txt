@@ -1,0 +1,13 @@
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.exe
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.deps.json
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.runtimeconfig.json
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.runtimeconfig.dev.json
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.dll
+C:\Users\Camer\source\repos\Mod3_Dispose\bin\Debug\netcoreapp3.1\Mod3_Dispose.pdb
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.AssemblyInfo.cs
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.dll
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.pdb
+C:\Users\Camer\source\repos\Mod3_Dispose\obj\Debug\netcoreapp3.1\Mod3_Dispose.genruntimeconfig.cache

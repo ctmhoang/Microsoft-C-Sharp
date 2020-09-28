@@ -1,6 +1,0 @@
-C:\Users\Camer\source\repos\Mod2_Lab1\bin\Debug\Mod2_Lab1.exe
-C:\Users\Camer\source\repos\Mod2_Lab1\bin\Debug\Mod2_Lab1.pdb
-C:\Users\Camer\source\repos\Mod2_Lab1\obj\Debug\Mod2_Lab1.csprojAssemblyReference.cache
-C:\Users\Camer\source\repos\Mod2_Lab1\obj\Debug\Mod2_Lab1.csproj.CoreCompileInputs.cache
-C:\Users\Camer\source\repos\Mod2_Lab1\obj\Debug\Mod2_Lab1.exe
-C:\Users\Camer\source\repos\Mod2_Lab1\obj\Debug\Mod2_Lab1.pdb
