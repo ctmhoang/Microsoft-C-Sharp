@@ -77,8 +77,9 @@ public string CountryOfOrigin;
 * Formular hash func in hastable
 `Hk(key) = [GetHash(key) + k * (1 + (((GetHash(key) >> 5) + 1) % (hashsize – 1)))] % hashsize`
 * the expected number of probes needed when a collision occurs is at most 1 / (1 – lf), where lf is the load factor
+* Each element in hashtable has type of DictionaryEntry which had 2 props Key and Value.
 
-# Standard collection
+# [Standard collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections?redirectedfrom=MSDN&view=netcore-3.1)
 | Class	| Description |
 | ----- | ----------- |
 | ArrayList | The ArrayList is a general-purpose list that stores a linear collection of objects. The ArrayList includes methods and properties that enable you to add items, remove items, count the number of items in the collection, and sort the collection. |
@@ -87,6 +88,7 @@ public string CountryOfOrigin;
 | Queue |	The Queue class is a first in, first out collection of objects. The Queue includes methods to add objects to the back of the queue (Enqueue) and retrieve objects from the front of the queue (Dequeue). |
 | SortedList |	The SortedList class stores a collection of key/value pairs that are sorted by key. In addition to the functionality provided by the Hashtable class, the SortedList enables you to retrieve items either by key or by index. |
 | Stack |	The Stack class is a first in, last out or last in, first out (LIFO) collection of objects. The Stack includes methods to view the top item in the collection without removing it (Peek), add an item to the top of the stack (Push), and remove and return the item at the top of the stack (Pop). |
+> Note: ArrayList can add element via index
 # Specialized Collections
 | Class |	Description |
 | ----- | ----------- |
@@ -97,3 +99,6 @@ public string CountryOfOrigin;
 | StringCollection |	The StringCollection is a list class in which every item in the collection is a string. Use this class when you want to store a simple, linear collection of strings.. |
 |StringDictionary |	The StringDictionary is a dictionary class in which both the key and the value are strings. Unlike the NameValueCollection class, you cannot retrieve items from a StringDictionary by index. |
 |BitVector32 |	The BitVector32 is a struct that can represent a 32-bit value as both a bit array and an integer value. Unlike the BitArray class, which can expand indefinitely, the BitVector32 struct is a fixed 32-bit size. As a result, the BitVector32 is more efficient than the BitArray for small values. You can divide a BitVector32 instance into sections to efficiently store multiple values. |
+
+# [Lambda expression](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+# [Tuple](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
