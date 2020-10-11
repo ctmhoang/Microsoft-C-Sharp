@@ -1,0 +1,6 @@
+C:\Users\Camer\source\repos\CarStruct\bin\Debug\CarStruct.exe
+C:\Users\Camer\source\repos\CarStruct\bin\Debug\CarStruct.pdb
+C:\Users\Camer\source\repos\CarStruct\obj\Debug\CarStruct.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\CarStruct\obj\Debug\CarStruct.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\CarStruct\obj\Debug\CarStruct.exe
+C:\Users\Camer\source\repos\CarStruct\obj\Debug\CarStruct.pdb

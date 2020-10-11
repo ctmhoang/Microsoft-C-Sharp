@@ -1,0 +1,6 @@
+C:\Users\Camer\source\repos\DoWEnum\bin\Debug\DoWEnum.exe
+C:\Users\Camer\source\repos\DoWEnum\bin\Debug\DoWEnum.pdb
+C:\Users\Camer\source\repos\DoWEnum\obj\Debug\DoWEnum.csprojAssemblyReference.cache
+C:\Users\Camer\source\repos\DoWEnum\obj\Debug\DoWEnum.csproj.CoreCompileInputs.cache
+C:\Users\Camer\source\repos\DoWEnum\obj\Debug\DoWEnum.exe
+C:\Users\Camer\source\repos\DoWEnum\obj\Debug\DoWEnum.pdb
