@@ -26,8 +26,8 @@ enum Day { Sunday = 1, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday };
 
 ```
 * Enums support intrinsic data types and can be any one of the following: (how much storage will be allocated for each enumerator in the enum) (default is int)
- *  (s)(byte)
- * (u)(short/int/long)
+  *  (s)(byte)
+  * (u)(short/int/long)
 * Change default type of enum
 ```
 enum Day : short { Sunday = 1, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday };
@@ -102,3 +102,17 @@ public string CountryOfOrigin;
 
 # [Lambda expression](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
 # [Tuple](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
+
+# Generics
+* constrain a type parameter to classes that implement a particular interface
+`public class CustomList<T> where T : IBeverage`
+| Constraint |	Description |
+| ---------- | ----------- |
+| where T : <name of interface> |	The type argument must be, or implement, the specified interface. |
+| where T : <name of base class> |	The type argument must be, or derive from, the specified class |
+| where T : U |	The type argument must be, or derive from, the supplied type argument U |
+| where T : new() |	The type argument must have a public default constructor |
+| where T : struct |	The type argument must be a value type |
+| where T : class |	The type argument must be a reference type |
+ 
+** IEnumerable, ICollection, IList, IDictionary
