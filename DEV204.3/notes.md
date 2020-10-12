@@ -104,8 +104,8 @@ public string CountryOfOrigin;
 # [Tuple](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
 
 # Generics
-* constrain a type parameter to classes that implement a particular interface
-`public class CustomList<T> where T : IBeverage`
+* constrain a type parameter to classes that implement a particular interface `public class CustomList<T> where T : IBeverage`
+
 | Constraint |	Description |
 | ---------- | ----------- |
 | where T : <name of interface> |	The type argument must be, or implement, the specified interface. |
@@ -115,4 +115,7 @@ public string CountryOfOrigin;
 | where T : struct |	The type argument must be a value type |
 | where T : class |	The type argument must be a reference type |
  
-** IEnumerable, ICollection, IList, IDictionary
+**IEnumerable, ICollection, IList, IDictionary**
+**Foreach loop use IEnumerator**
+
+## [yield](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
