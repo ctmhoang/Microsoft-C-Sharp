@@ -103,7 +103,7 @@ public string CountryOfOrigin;
 # [Lambda expression](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
 # [Tuple](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
 
-# Generics
+# [Generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/collections?redirectedfrom=MSDN)
 * constrain a type parameter to classes that implement a particular interface `public class CustomList<T> where T : IBeverage`
 
 | Constraint |	Description |
