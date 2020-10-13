@@ -119,3 +119,19 @@ public string CountryOfOrigin;
 **Foreach loop use IEnumerator**
 
 ## [yield](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
+## Generic method `<Type>` after method name
+# Functional
+* Pure Function
+* Higher order function
+* Composition
+* Immutability
+* No side effs
+### ImmutableList
+### Math.clamp
+###  `Func<T> `, `Action <T>` and `Predicate<T>`
+### Swich expression (default is _)
+### Enumerable.range()
+### [Curry](https://wensveen.wordpress.com/2010/03/01/currying-in-csharp/)
+### this in front of parameter indicate value pipelined
+### Functor
+### Selectmany as flatmap
