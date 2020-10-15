@@ -1,0 +1,94 @@
+HOW CAN CHAIN MULTIPLE CONSTRUCTOR
+get set
+public string Name{get,set};
+can use property in contructor
+readonly can use as field not varable in methods
+
+return value
+
+params like xarg in python and ... in java but need to declare array
+base like super
+override in signature after acccess modifier
+
+Enum like C and Go aybe java
+
+Need overwrite in child class need a `virtual` keyword in supper class
+
+exntend like : C
+
+as is key word
+
+interface like java
+
+call contructer in supper class use  `:`
+
+use => in ref field to property
+
+EXCEPTION IN CATCH DO NOT NEED TO GET A PARAM NAME
+
+Collection can be access by []
+
+Drive Dir Folder 
+
+Delegate has same priority as class
+if if above class can init with new 
+or bind the method direct to it;
+
+Delegate is distinguish from its return type and signature
+`Access modifier Delegate Blah (int, int)`
+To Sum up its just like function type in js
+
+Delegate can concat and remove with + and - operator with eachother like array of function and foreach its called multicast
+remove like a stack order
+GetInvocationList().GetLength(0);
+
+can  mapped to both static and instance methods and returns specific information from each.
+
+Event -> add and remove delegate
+same as Property 
+has `add` and `set` method
+candy sugar syntax `event Type Name` no not add method after curly braces
+
+```
+// Instantiate Del by using an anonymous method.
+Del del3 = delegate(string name)
+    { Console.WriteLine($"Notification received for: {name}"); };
+```
+
+```
+// Instantiate Del by using a lambda expression.
+Del del4 = name =>  { Console.WriteLine($"Notification received for: {name}"); };
+```
+
+# Mutiple thread in c#
+using object Thread
+has method start()
+Piority Lwst BelowNorm Norm AboveNorm Hgest // ThreadPriority
+Thread.sleep
+
+## lock keyword in c# only using Object as lock so better set it to readonly
+
+Container has Controls Collections like ele in container
+
+MessageBox.show
+Tab index
+Location Point
+Size
+Text
+
+UserControl
+
+System.Data
+.oredb
+SqlConnection -> Connection String
+SqlCommand .Text .CommandType .Execute Reader/NonQuery(Insert/Del/Up/Stored Procedure)(? lined effected)/Scalar(a unique value)/XmlReader
+
+DataSet > DataTabel > DataRow/Column > DataCells
+SqlDataAdapter (sel/ins/up/del)Command
+
+
+ComboBox / ListBox / CheckedListBox/ DataGridView/ TreeView / .DataSource(Collections|Arrays|Datatables)
+FormLoad Action
+.Display/Value Mem
+SelectedIndex/Text/Value/Item(Object);  
+
