@@ -92,3 +92,23 @@ FormLoad Action
 .Display/Value Mem
 SelectedIndex/Text/Value/Item(Object);  
 
+Only using to setup
+DataGridView AutoGenerateColumns  but keep remember do it just before databinding
+Add  -> DataPropertyName(Name in DB)
+Hyberlink/button/checkout columns useColumnTextForButtonValue
+
+CellClick
+DataGridViewArgs.Cell.Column
+DataSource Rows Cells DataMember // from gridview
+RowIndex
+
+SqlParameter addRange
+SqlDbType -> MSSQL
+DBType -> OREM DB
+
+
+Config
+connString -> add name? connectString
+ConfigurationManager -> add Lib in ref
+
+SqlCommand.Parameters.AddWithValu
