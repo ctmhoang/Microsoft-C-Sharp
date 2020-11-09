@@ -112,3 +112,44 @@ connString -> add name? connectString
 ConfigurationManager -> add Lib in ref
 
 SqlCommand.Parameters.AddWithValu
+
+
+
+
+WEB
+AutoPostback
+ID
+runnat
+OnEventChanged Properties
+DataBind
+
+ViewState + UI => Can postback
+EnableViewState => do not have event
+ASP
+AutoGenerateColumn
+HeaderSTyle?Footer
+PagerStyle /Settings
+Column > BoundField (DATA) / Button/ Checkbox / Command == button / HyberLink / ImageField/ StyleField > HeaderText / DataField/ Text
+HyberLink > NavigateUrl # nhau / DataNavigateUrlFormatString="as.aspx?pid={0}&pas={1}" DataNavidateUrlFields="Var0, var1"
+Request in c# > QueryString
+Reponse i c# > Redirect
+
+
+Session
+GlobalApplicationClass
+has Session Object
+Repeater
+ValidationControls
+asp:TemplateField/Repeater > ItemTemplate >HTML tags 
+= in complie time # in databind
+listview
+DataBinder.Eval?>DataContainer > DataItem
+
+asp
+label
+Calender
+DataTextField/ DataValueField
+custom Validator
+
+
+visible property
